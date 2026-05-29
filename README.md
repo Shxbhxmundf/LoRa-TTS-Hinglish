@@ -69,7 +69,7 @@ This loads the step 100 checkpoint, uses the included `reference.wav` for voice 
 ### Custom text
 
 ```bash
-python inference.py --text "अच्छा तो आज हम पढ़ेंगे fractions के बारे में, ready हो?"
+python inference.py --text "आज हम परम्युटेशन और कॉम्बिनेशन समझेंगे, जहाँ अरेंजमेंट और सिलेक्शन के बीच का फर्क मैथ्स में बहुत महत्वपूर्ण माना जाता है।"
 ```
 
 ### Use a different checkpoint step
